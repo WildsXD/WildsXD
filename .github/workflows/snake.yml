@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Menjalankan setiap hari pada tengah malam
+  workflow_dispatch:  # Memungkinkan pemicu manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: NAMA_PENGGUNA_GITHUB_ANDA  # Ganti dengan nama pengguna GitHub Anda
+          gif_out_path: output/github-contribution-grid-snake.gif
+          svg_out_path: output/github-contribution-grid-snake.svg
+
+      - name: Commit and Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true

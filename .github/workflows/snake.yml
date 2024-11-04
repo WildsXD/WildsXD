@@ -21,6 +21,6 @@ jobs:
       - name: Commit and Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ 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}}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true

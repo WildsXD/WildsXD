@@ -9,18 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Ganti dengan v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: WildsXD  # Ganti dengan nama pengguna GitHub Anda
+          github_user_name: WildsXD # Ganti dengan nama pengguna GitHub Anda
           gif_out_path: output/github-contribution-grid-snake.gif
           svg_out_path: output/github-contribution-grid-snake.svg
 
       - name: Commit and Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Pastikan ini menggunakan token yang benar
+          branch: output  # Pastikan branch ini ada dan tidak dilindungi
           force: true

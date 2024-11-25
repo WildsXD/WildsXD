@@ -1,10 +1,7 @@
 # Hi there 👋 , I'm Ilham! 
 I like learning new things about programming
 ### Tools:
-<p>
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,c,py,nodejs,tailwind,react)](https://skillicons.dev)
 
 ### Stats:
 <details>

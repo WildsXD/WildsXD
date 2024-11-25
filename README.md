@@ -1,8 +1,7 @@
 # Hi there 👋 , I'm Ilham! 
 I like learning new things about programming
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,c,py,nodejs,tailwind,react)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,py,nodejs,tailwind,react)](https://skillicons.dev)
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>

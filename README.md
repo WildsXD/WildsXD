@@ -71,7 +71,6 @@
   <a href="https://github.com/WildsXD"><img src="https://img.shields.io/badge/GitHub-WildsXD-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### 🐍 Snake Contribution Graph
 
 ![snake dark](https://github.com/WildsXD/WildsXD/blob/output/github-snake-dark.svg?palette=github-dark)
 

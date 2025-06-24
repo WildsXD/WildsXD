@@ -8,9 +8,6 @@
   <img src="https://media.tenor.com/SaPzdFvHshIAAAAC/l-lawliet.gif" width="340" alt="L Programmer GIF" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&vCenter=true&width=435&lines=I+love+learning+code!;Currently+learning+JS,+Python,+C;Exploring+Web+Dev+%26+Automation" alt="Typing SVG" />
-</p>
 
 ---
 

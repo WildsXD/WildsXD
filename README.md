@@ -28,14 +28,9 @@
 
 ### 📜 Certificates
 
-<p>
-  <img src="https://img.shields.io/badge/Coursera-Completed-blue?style=flat-square&logo=coursera" />
-  <img src="https://img.shields.io/badge/FreeCodeCamp-Certified-brightgreen?style=flat-square&logo=freecodecamp" />
-  <img src="https://img.shields.io/badge/HackerRank-Python-green?style=flat-square&logo=hackerrank" />
-</p>
-
-> *Tip:* Kamu bisa ganti teks badge di atas dengan nama kursus sebenarnya dan menambahkan link ke sertifikat.
-
+[![Coursera: Programming with JavaScript](https://img.shields.io/badge/Coursera-JavaScript-blue?style=flat-square&logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/ABC123456)
+[![FreeCodeCamp: Responsive Web Design](https://img.shields.io/badge/FreeCodeCamp-Responsive_Design-brightgreen?style=flat-square&logo=freecodecamp)](https://freecodecamp.org/certification/username/responsive-web-design)
+[![HackerRank: Python (Basic)](https://img.shields.io/badge/HackerRank-Python_Basic-green?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/ABCDEF)
 ---
 
 ### 💡 Fun Facts

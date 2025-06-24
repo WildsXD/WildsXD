@@ -18,7 +18,7 @@
 
 ### 🛠️ Tools & Technologies:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,tailwind,react&perline=5" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,tailwind,react,flask,django&perline=5" />
 </p>
 
 ---

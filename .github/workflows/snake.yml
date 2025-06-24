@@ -49,9 +49,11 @@ jobs:
           git config --global user.name 'WildsXD'
           git config --global user.email 'grangerfb31@gmail.com'
 
-      - name: Make a fake commit
+      - name: Generate multiple
         run: |
-          echo "$(date)" >> activity.log
-          git add activity.log
-          git commit -m "Auto commit to keep snake alive 🐍"
+          for i in $(seq 1 $((RANDOM % 5 + 1))); do
+            echo "$RANDOM at $(date)" >> activity.log
+            git add activity.log
+            git commit -m "Auto commit #$i 🐍"
+          done
           git push

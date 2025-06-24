@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="340" alt="L working GIF" />
+  <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="350" alt="L from Death Note working" />
 </p>
+
 
 
 

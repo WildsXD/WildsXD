@@ -3,13 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Code+Explorer+%F0%9F%9A%80;Learning+JavaScript%2C+Python%2C+C...;Web+Developer+%7C+Automation+Enthusiast;Always+curious%2C+always+coding+%F0%9F%A4%96" alt="Typing animation" />
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif" width="350" alt="L from Death Note working" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxhZ3Z6YjB2YXl2OWV3NXBueTllN2gyN2kxc240bWlyeHM0ZGRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="340" alt="L from Death Note" />
 </p>
-
-
-
 
 ---
 

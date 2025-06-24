@@ -73,4 +73,5 @@
 
 ### 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/WildsXD/WildsXD/blob/output/github-snake.svg)
+![snake dark](https://github.com/WildsXD/WildsXD/blob/output/github-snake-dark.svg?palette=github-dark)
+

@@ -1,6 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Ilham!</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&vCenter=true&width=435&lines=Code+Explorer+%F0%9F%9A%80;Learning+JavaScript%2C+Python%2C+C...;Web+Developer+%7C+Automation+Enthusiast;Always+curious%2C+always+coding+%F0%9F%A4%96" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/SaPzdFvHshIAAAAC/l-lawliet.gif" width="340" alt="L Programmer GIF" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&vCenter=true&width=435&lines=I+love+learning+code!;Currently+learning+JS,+Python,+C;Exploring+Web+Dev+%26+Automation" alt="Typing SVG" />
 </p>
 
